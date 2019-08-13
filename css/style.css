@@ -1,0 +1,1248 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    margin-left: 43px;
+    margin-top: 83px;
+    width: 290px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 266px;
+    height: 45px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v011.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 45px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container0row0column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style2,
+  .style3 {
+    font-family: segoeui,serif
+  }
+  .style2 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 21px
+  }
+  .style3 {
+    color: #e8e8e8;
+    font-size: .6875em;
+    margin-top: 2px;
+    height: 16px
+  }
+  .style4,
+  .style5 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style4 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 258px;
+    width: 8px;
+    height: 8px
+  }
+  .style5 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 43px;
+    margin-top: 38px;
+    width: 290px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 266px;
+    height: 45px
+  }
+  .style6 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v0rp.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 45px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container3row0column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style7,
+  .style8 {
+    font-family: segoeui,serif
+  }
+  .style7 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 21px
+  }
+  .style8 {
+    color: #e8e8e8;
+    font-size: .6875em;
+    margin-top: 2px;
+    height: 16px
+  }
+  .style10,
+  .style9 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style9 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 258px;
+    width: 8px;
+    height: 8px
+  }
+  .style10 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 43px;
+    margin-top: 38px;
+    width: 290px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container6row0 {
+    display: flex;
+    width: 266px;
+    height: 45px
+  }
+  .style11 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v1g7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 45px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container6row0column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    font-family: segoeui,serif
+  }
+  .style12 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 21px
+  }
+  .style13 {
+    color: #e8e8e8;
+    font-size: .6875em;
+    margin-top: 2px;
+    height: 16px
+  }
+  .style14,
+  .style15 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style14 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 258px;
+    width: 8px;
+    height: 8px
+  }
+  .style15 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 43px;
+    margin-top: 38px;
+    width: 290px;
+    height: 63px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container9row0 {
+    display: flex;
+    width: 266px;
+    height: 45px
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v21s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 45px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container9row0column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: segoeui,serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 21px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: .6875em;
+    margin-top: 2px;
+    height: 16px
+  }
+  .style19 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 258px;
+    width: 8px;
+    height: 8px;
+    align-self: flex-end
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    margin-left: 88px;
+    margin-top: 170px;
+    width: 594px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 545px;
+    height: 92px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v011.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 92px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container0row0column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style2,
+  .style3 {
+    font-family: segoeui,serif
+  }
+  .style2 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 43px
+  }
+  .style3 {
+    color: #e8e8e8;
+    font-size: 1.408em;
+    margin-top: 4px;
+    height: 33px
+  }
+  .style4,
+  .style5 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style4 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 528px;
+    width: 16px;
+    height: 16px
+  }
+  .style5 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 88px;
+    margin-top: 78px;
+    width: 594px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 545px;
+    height: 92px
+  }
+  .style6 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v0rp.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 92px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container3row0column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style7,
+  .style8 {
+    font-family: segoeui,serif
+  }
+  .style7 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 43px
+  }
+  .style8 {
+    color: #e8e8e8;
+    font-size: 1.408em;
+    margin-top: 4px;
+    height: 33px
+  }
+  .style10,
+  .style9 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style9 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 528px;
+    width: 16px;
+    height: 16px
+  }
+  .style10 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 88px;
+    margin-top: 78px;
+    width: 594px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container6row0 {
+    display: flex;
+    width: 545px;
+    height: 92px
+  }
+  .style11 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v1g7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 92px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container6row0column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    font-family: segoeui,serif
+  }
+  .style12 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 43px
+  }
+  .style13 {
+    color: #e8e8e8;
+    font-size: 1.408em;
+    margin-top: 4px;
+    height: 33px
+  }
+  .style14,
+  .style15 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style14 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 528px;
+    width: 16px;
+    height: 16px
+  }
+  .style15 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 88px;
+    margin-top: 78px;
+    width: 594px;
+    height: 129px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container9row0 {
+    display: flex;
+    width: 545px;
+    height: 92px
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v21s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 92px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container9row0column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: segoeui,serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 43px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 1.408em;
+    margin-top: 4px;
+    height: 33px
+  }
+  .style19 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 528px;
+    width: 16px;
+    height: 16px;
+    align-self: flex-end
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    margin-left: 105px;
+    margin-top: 204px;
+    width: 711px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 653px;
+    height: 110px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v011.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 110px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container0row0column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style2,
+  .style3 {
+    font-family: segoeui,serif
+  }
+  .style2 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 52px
+  }
+  .style3 {
+    color: #e8e8e8;
+    font-size: 1.6866666666666665em;
+    margin-top: 5px;
+    height: 39px
+  }
+  .style4,
+  .style5 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style4 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 633px;
+    width: 20px;
+    height: 20px
+  }
+  .style5 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 105px;
+    margin-top: 93px;
+    width: 711px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 653px;
+    height: 110px
+  }
+  .style6 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v0rp.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 110px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container3row0column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style7,
+  .style8 {
+    font-family: segoeui,serif
+  }
+  .style7 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 52px
+  }
+  .style8 {
+    color: #e8e8e8;
+    font-size: 1.6866666666666665em;
+    margin-top: 5px;
+    height: 39px
+  }
+  .style10,
+  .style9 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style9 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 633px;
+    width: 20px;
+    height: 20px
+  }
+  .style10 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 105px;
+    margin-top: 93px;
+    width: 711px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container6row0 {
+    display: flex;
+    width: 653px;
+    height: 110px
+  }
+  .style11 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v1g7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 110px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container6row0column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    font-family: segoeui,serif
+  }
+  .style12 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 52px
+  }
+  .style13 {
+    color: #e8e8e8;
+    font-size: 1.6866666666666665em;
+    margin-top: 5px;
+    height: 39px
+  }
+  .style14,
+  .style15 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style14 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 633px;
+    width: 20px;
+    height: 20px
+  }
+  .style15 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 105px;
+    margin-top: 93px;
+    width: 711px;
+    height: 155px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container9row0 {
+    display: flex;
+    width: 653px;
+    height: 110px
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v21s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 110px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container9row0column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: segoeui,serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 52px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 1.6866666666666665em;
+    margin-top: 5px;
+    height: 39px
+  }
+  .style19 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 633px;
+    width: 20px;
+    height: 20px;
+    align-self: flex-end
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    margin-left: 138px;
+    margin-top: 266px;
+    width: 928px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container0row0 {
+    display: flex;
+    width: 851px;
+    height: 144px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v011.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 144px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container0row0column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style2,
+  .style3 {
+    font-family: segoeui,serif
+  }
+  .style2 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 3em;
+    margin-top: 0;
+    height: 67px
+  }
+  .style3 {
+    color: #e8e8e8;
+    font-size: 2.2em;
+    margin-top: 6px;
+    height: 51px
+  }
+  .style4,
+  .style5 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style4 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 826px;
+    width: 26px;
+    height: 26px
+  }
+  .style5 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 138px;
+    margin-top: 122px;
+    width: 928px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container3row0 {
+    display: flex;
+    width: 851px;
+    height: 144px
+  }
+  .style6 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v0rp.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 144px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container3row0column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style7,
+  .style8 {
+    font-family: segoeui,serif
+  }
+  .style7 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 3em;
+    margin-top: 0;
+    height: 67px
+  }
+  .style8 {
+    color: #e8e8e8;
+    font-size: 2.2em;
+    margin-top: 6px;
+    height: 51px
+  }
+  .style10,
+  .style9 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style9 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 826px;
+    width: 26px;
+    height: 26px
+  }
+  .style10 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 138px;
+    margin-top: 122px;
+    width: 928px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container6row0 {
+    display: flex;
+    width: 851px;
+    height: 144px
+  }
+  .style11 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v1g7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 144px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container6row0column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    font-family: segoeui,serif
+  }
+  .style12 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 3em;
+    margin-top: 0;
+    height: 67px
+  }
+  .style13 {
+    color: #e8e8e8;
+    font-size: 2.2em;
+    margin-top: 6px;
+    height: 51px
+  }
+  .style14,
+  .style15 {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px
+  }
+  .style14 {
+    box-shadow: 0 0 5px 1px #08ff00;
+    align-self: flex-end;
+    background-color: #00e11e;
+    margin-left: 826px;
+    width: 26px;
+    height: 26px
+  }
+  .style15 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    display: flex;
+    margin-left: 138px;
+    margin-top: 122px;
+    width: 928px;
+    height: 202px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .iphone6781container9row0 {
+    display: flex;
+    width: 851px;
+    height: 144px
+  }
+  .style16 {
+    background-image: url(https://designresources.assets.yotako.io/40599uujza3v21s.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    margin-left: 0;
+    width: 144px;
+    height: 100%;
+    align-self: stretch
+  }
+  .iphone6781container9row0column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: segoeui,serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 3em;
+    margin-top: 0;
+    height: 67px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 2.2em;
+    margin-top: 6px;
+    height: 51px
+  }
+  .style19 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 826px;
+    width: 26px;
+    height: 26px;
+    align-self: flex-end
+  }
+}
